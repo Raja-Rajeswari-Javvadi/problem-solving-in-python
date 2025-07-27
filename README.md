@@ -16,7 +16,7 @@ I’m solving **100+ curated problems** from beginner to advanced level to stren
 | 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Hello%20world.py         |
 | 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/sum%20of%20two%20numbers.py          |
 | 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Maximum%20of%20two%20numbers.py            |
-| 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |              |
+| 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/even%20or%20odd.py          |
 | 5    | Check prime number                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 6    | Find factorial of a number                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | ⬜ Not Started  |              |
