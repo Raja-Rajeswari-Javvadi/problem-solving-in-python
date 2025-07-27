@@ -2,7 +2,9 @@
 
 Welcome to my **Python Problem Solving Journey**! 🚀  
 I’m solving **100+ curated problems** from beginner to advanced level to strengthen my logic and coding skills.
-
+> _"Step by step, day by day, I'm coding my way."_ ✨  
+Click on the **Link to Code** to view the solution for each problem.
+> 
 - 📅 **Goal**: Solve **2 problems/day**
 - 🏁 **Duration**: 50 Days
 - 🔁 **Track**: Updated here daily
@@ -113,3 +115,22 @@ I’m solving **100+ curated problems** from beginner to advanced level to stren
 | 98   | First non-repeating character                       | 🔴 Advanced   | ⬜ Not Started  |              |
 | 99   | Longest increasing subsequence                      | 🔴 Advanced   | ⬜ Not Started  |              |
 | 100  | Dijkstra’s algorithm for shortest path              | 🔴 Advanced   | ⬜ Not Started  |              |
+> _"Every expert was once a beginner who didn’t quit."_ 💪
+
+---
+
+## 🧠 Why I’m Doing This
+
+- To develop **core logic and thinking**
+- To prepare for **interviews & technical rounds**
+- To maintain a **daily problem-solving habit**
+- To create a **solid Python reference** for myself and others
+
+  ---
+
+## 🌟 Let’s Connect
+
+If you found this helpful, give it a ⭐  
+Feel free to follow along, suggest improvements, or contribute more problems!
+
+---
