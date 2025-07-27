@@ -1,7 +1,7 @@
 # 🐍 100 Python Problem Solving Challenge
 
 Welcome to my **Python Problem Solving Journey**! 🚀  
-I’m solving **100 curated problems** from beginner to advanced level to strengthen my logic and coding skills.
+I’m solving **100+ curated problems** from beginner to advanced level to strengthen my logic and coding skills.
 
 - 📅 **Goal**: Solve **2 problems/day**
 - 🏁 **Duration**: 50 Days
