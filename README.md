@@ -14,7 +14,7 @@ I’m solving **100+ curated problems** from beginner to advanced level to stren
 | S.No | Problem Title                                       | Level        | Status         | Link to Code |
 |------|-----------------------------------------------------|--------------|----------------|--------------|
 | 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Hello%20world.py         |
-| 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |              |
+| 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/sum%20of%20two%20numbers.py          |
 | 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Maximum%20of%20two%20numbers.py            |
 | 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |              |
 | 5    | Check prime number                                  | 🟢 Beginner   | ⬜ Not Started  |              |
