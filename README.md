@@ -13,7 +13,7 @@ I’m solving **100+ curated problems** from beginner to advanced level to stren
 
 | S.No | Problem Title                                       | Level        | Status         | Link to Code |
 |------|-----------------------------------------------------|--------------|----------------|--------------|
-| 1    | Print "Hello, World!"                               | 🟢 Beginner   | ⬜ Not Started  |              |
+| 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Hello%20world.py         |
 | 2    | Sum of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 3    | Maximum of two numbers                              | 🟢 Beginner   | ⬜ Not Started  |              |
 | 4    | Check even or odd                                   | 🟢 Beginner   | ⬜ Not Started  |              |
