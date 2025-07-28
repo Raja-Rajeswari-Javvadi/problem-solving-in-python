@@ -19,8 +19,8 @@ Click on the **Link to Code** to view the solution for each problem.
 | 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/sum%20of%20two%20numbers.py          |
 | 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Maximum%20of%20two%20numbers.py            |
 | 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/even%20or%20odd.py          |
-| 5    | Check prime number                                  | 🟢 Beginner   | ⬜ Not Started  |              |
-| 6    | Find factorial of a number                          | 🟢 Beginner   | ⬜ Not Started  |              |
+| 5    | Check prime number                                  | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20prime%20num.py      |
+| 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  |              |
 | 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 8    | Reverse a number                                    | 🟢 Beginner   | ⬜ Not Started  |              |
 | 9    | Palindrome number                                   | 🟢 Beginner   | ⬜ Not Started  |              |
