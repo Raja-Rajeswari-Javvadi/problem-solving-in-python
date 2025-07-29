@@ -21,7 +21,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/even%20or%20odd.py          |
 | 5    | Check prime number                                  | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20prime%20num.py      |
 | 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/factorial.py         |
-| 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | ⬜ Not Started  |              |
+| 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/fibonacci%20series.py         |
 | 8    | Reverse a number                                    | 🟢 Beginner   | ⬜ Not Started  |              |
 | 9    | Palindrome number                                   | 🟢 Beginner   | ⬜ Not Started  |              |
 | 10   | Count digits in a number                            | 🟢 Beginner   | ⬜ Not Started  |              |
