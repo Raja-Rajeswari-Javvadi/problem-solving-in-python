@@ -26,7 +26,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 9    | Palindrome number                                   | 🟢 Beginner   | Completed  |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/palindrome.py           |
 | 10   | Count digits in a number                            | 🟢 Beginner   | Completed  |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/count%20digits%20in%20a%20num.py            |
 | 11   | Armstrong number check                              | 🟢 Beginner   | Completed  |       https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Armstrong%20number%20check.py       |
-| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | ⬜ Not Started  |              |
+| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Printing%20prime%20numbers%20from%201%20to%20100.py         |
 | 13   | Sum of digits of a number                           | 🟢 Beginner   | ⬜ Not Started  |              |
 | 14   | GCD of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 15   | LCM of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
