@@ -22,10 +22,10 @@ Click on the **Link to Code** to view the solution for each problem.
 | 5    | Check prime number                                  | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20prime%20num.py      |
 | 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/factorial.py         |
 | 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/fibonacci%20series.py         |
-| 8    | Reverse a number                                    | 🟢 Beginner   | ⬜ Not Started  |              |
-| 9    | Palindrome number                                   | 🟢 Beginner   | ⬜ Not Started  |              |
-| 10   | Count digits in a number                            | 🟢 Beginner   | ⬜ Not Started  |              |
-| 11   | Armstrong number check                              | 🟢 Beginner   | ⬜ Not Started  |              |
+| 8    | Reverse a number                                    | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/reversed%20number.py         |
+| 9    | Palindrome number                                   | 🟢 Beginner   | Completed  |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/palindrome.py           |
+| 10   | Count digits in a number                            | 🟢 Beginner   | Completed  |  https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/count%20digits%20in%20a%20num.py            |
+| 11   | Armstrong number check                              | 🟢 Beginner   | Completed  |       https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Armstrong%20number%20check.py       |
 | 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | ⬜ Not Started  |              |
 | 13   | Sum of digits of a number                           | 🟢 Beginner   | ⬜ Not Started  |              |
 | 14   | GCD of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
