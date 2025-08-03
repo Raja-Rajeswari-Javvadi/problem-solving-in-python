@@ -32,7 +32,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 15   | LCM of two numbers                                  | 🟢 Beginner   | Completed  |       https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/LCM%20Of%202%20numbers.py       |
 | 16   | Swap two numbers without temp variable              | 🟢 Beginner   | Completed  |      https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Printing%20prime%20numbers%20from%201%20to%20100.py        |
 | 17   | Convert Celsius to Fahrenheit                       | 🟢 Beginner   | Completed  |      https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Convert%20Celsius%20to%20Fahrenheit.py        |
-| 18   | Check leap year                                     | 🟢 Beginner   | Completed  |              |
+| 18   | Check leap year                                     | 🟢 Beginner   | Completed  |          https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20leap%20year.py    |
 | 19   | Calculator using functions                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 20   | ASCII value of a character                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | ⬜ Not Started  |              |
