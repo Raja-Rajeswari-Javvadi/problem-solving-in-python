@@ -34,7 +34,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 17   | Convert Celsius to Fahrenheit                       | 🟢 Beginner   | Completed  |      https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Convert%20Celsius%20to%20Fahrenheit.py        |
 | 18   | Check leap year                                     | 🟢 Beginner   | Completed  |          https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20leap%20year.py    |
 | 19   | Calculator using functions                          | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Calculator%20using%20functions.py          |
-| 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  |              |
+| 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/ASCII%20Values.py    |
 | 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | ⬜ Not Started  |              |
 | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | ⬜ Not Started  |              |
 | 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | ⬜ Not Started  |              |
