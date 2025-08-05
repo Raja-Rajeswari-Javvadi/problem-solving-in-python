@@ -35,8 +35,8 @@ Click on the **Link to Code** to view the solution for each problem.
 | 18   | Check leap year                                     | 🟢 Beginner   | Completed  |          https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/checking%20leap%20year.py    |
 | 19   | Calculator using functions                          | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Calculator%20using%20functions.py          |
 | 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/ASCII%20Values.py    |
-| 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | ⬜ Not Started  |              |
-| 22   | Sum of first n natural numbers                      | 🟢 Beginner   | ⬜ Not Started  |              |
+| 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Number%20to%20binary%2C%20octal%2C%20and%20hexadecimal.py          |
+| 22   | Sum of first n natural numbers                      | 🟢 Beginner   | Completed  |              |
 | 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | ⬜ Not Started  |              |
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | ⬜ Not Started  |              |
 | 25   | Remove punctuation from string                      | 🟢 Beginner   | ⬜ Not Started  |              |
