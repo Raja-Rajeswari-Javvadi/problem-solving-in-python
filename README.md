@@ -37,7 +37,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  |     https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/ASCII%20Values.py    |
 | 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | Completed  |    https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Number%20to%20binary%2C%20octal%2C%20and%20hexadecimal.py          |
 | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Sum%20of%20first%20n%20natural%20numbers.py      |
-| 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | Completed    |            |https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Centered%20Pyramid.py
+| 23   | | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Sum%20of%20first%20n%20natural%20numbers.py      |                  | 🟢 Beginner   | Completed  |        https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Sum%20of%20first%20n%20natural%20numbers.py      |
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | ⬜ Not Started  |              |
 | 25   | Remove punctuation from string                      | 🟢 Beginner   | ⬜ Not Started  |              |
 | 26   | Reverse a string                                    | 🟢 Beginner   | ⬜ Not Started  |              |
