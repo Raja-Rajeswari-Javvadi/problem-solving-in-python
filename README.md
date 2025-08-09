@@ -38,7 +38,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | ✅ Completed    | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Sum%20of%20first%20n%20natural%20numbers.py) |
 | 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | ✅ Completed  | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Centered%20Pyramid.py)  |
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Counting%20vowels%20and%20consonants.py) |
-| 25   | Remove punctuation from string                      | 🟢 Beginner   | ⬜ Not Started | |
+| 25   | Remove punctuation from string                      | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Remove%20Punctuation%20from%20a%20String.py) |
 | 26   | Reverse a string                                    | 🟢 Beginner   | ⬜ Not Started | |
 | 27   | Count words in a sentence                           | 🟢 Beginner   | ⬜ Not Started | |
 | 28   | Capitalize first letter of each word                | 🟢 Beginner   | ⬜ Not Started | |
