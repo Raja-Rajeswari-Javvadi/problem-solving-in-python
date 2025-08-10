@@ -40,7 +40,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Counting%20vowels%20and%20consonants.py) |
 | 25   | Remove punctuation from string                      | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Remove%20Punctuation%20from%20a%20String.py) |
 | 26   | Reverse a string                                    | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Reverse%20a%20string.py)|
-| 27   | Count words in a sentence                           | 🟢 Beginner   | ⬜ Not Started | |
+| 27   | Count words in a sentence                           | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Count%20words%20in%20a%20sentence.py) |
 | 28   | Capitalize first letter of each word                | 🟢 Beginner   | ⬜ Not Started | |
 | 29   | Replace substring in string                         | 🟢 Beginner   | ⬜ Not Started | |
 | 30   | Find the frequency of characters                    | 🟢 Beginner   | ⬜ Not Started | |
