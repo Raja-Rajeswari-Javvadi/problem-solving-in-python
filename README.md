@@ -42,7 +42,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 26   | Reverse a string                                    | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Reverse%20a%20string.py)|
 | 27   | Count words in a sentence                           | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Count%20words%20in%20a%20sentence.py) |
 | 28   | Capitalize first letter of each word                | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Capitalize%20first%20letter%20of%20each%20word.py) |
-| 29   | Replace substring in string                         | 🟢 Beginner   | ⬜ Not Started | |
+| 29   | Replace substring in string                         | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Replace%20substring%20in%20string.py) |
 | 30   | Find the frequency of characters                    | 🟢 Beginner   | ⬜ Not Started | |
 | 31   | Find second largest element in list                 | 🟡 Intermediate| ⬜ Not Started  |              |
 | 32   | Find duplicates in a list                           | 🟡 Intermediate| ⬜ Not Started  |              |
