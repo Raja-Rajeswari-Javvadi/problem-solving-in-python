@@ -45,7 +45,7 @@ Click on the **Link to Code** to view the solution for each problem.
 | 29   | Replace substring in string                         | 🟢 Beginner   | ✅ Completed |[Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Replace%20substring%20in%20string.py) |
 | 30   | Find the frequency of characters                    | 🟢 Beginner   | ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Frequency%20of%20characters.py) |
 | 31   | Find second largest element in list                 | 🟡 Intermediate| ✅ Completed  |   [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Second%20Largest%20%20number%20in%20list.py)           |
-| 32   | Find duplicates in a list                           | 🟡 Intermediate| ⬜ Not Started  |              |
+| 32   | Find duplicates in a list                           | 🟡 Intermediate|  ✅ Completed | [Link](https://github.com/Raja-Rajeswari-Javvadi/problem-solving-in-python/blob/main/Duplicate%20numbers%20in%20list.py)             |
 | 33   | Merge two sorted lists                              | 🟡 Intermediate| ⬜ Not Started  |              |
 | 34   | Sort list using bubble sort                         | 🟡 Intermediate| ⬜ Not Started  |              |
 | 35   | Find common elements in two lists                   | 🟡 Intermediate| ⬜ Not Started  |              |
